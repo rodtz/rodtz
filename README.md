@@ -9,8 +9,8 @@ My main focus areas are appsec, pentesting and reversing.
 
 
 <p align="center">
-  <a href="http://twitter.com/rodtz">
-    <img src="https://img.shields.io/twitter/follow/rodtz?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/rodtz0">
+    <img src="https://img.shields.io/twitter/follow/rodtz0?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://github.com/rodtz?tab=followers">
     <img src="https://img.shields.io/github/followers/rodtz?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
