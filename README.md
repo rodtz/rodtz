@@ -9,22 +9,36 @@ My main focus areas are appsec, pentesting and reversing.
 
 
 <p align="center">
-  <a href="http://twitter.com/rodtz0">
-    <img src="https://img.shields.io/twitter/follow/rodtz0?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/rodtz0">
+    <img src="https://img.shields.io/twitter/follow/rodtz0?style=for-the-badge&label=%40rodtz0&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <a href="https://github.com/rodtz?tab=followers">
-    <img src="https://img.shields.io/github/followers/rodtz?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/">
+    <img src="https://img.shields.io/badge/-Rodolfo%20Tavares-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https://github.com/rodtz.gpg">
-    <img src="https://img.shields.io/badge/pgp-0xXXXXXXXXXXX-313131?style=for-the-badge" />
-  </a>
+  <!--<a href="mailto:@gmail.com">
+    <img src="https://img.shields.io/badge/@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a> -->
+  <!--<a href="https://keybase.io/namehere">
+    <img src="https://img.shields.io/keybase/pgp/namehere?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a> -->
 </p>
 
+<a href="https://github.com/rodtz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodtz&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/rodtz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodtz&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rodtz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rodtz&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p> 
-
-
-
+<ul>
+<h4 align="left"> My CVES </h4>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2020--35581-CVE--2020--35581-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2020--35582-CVE--2020--35582-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2020--25790-CVE--2020--25790-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13364-CVE--2019--13364-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13363-CVE--2019--13363-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13364-CVE--2019--13364-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13363-CVE--2019--13363-blue"/></p> </li>
+</ul>
 
