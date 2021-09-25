@@ -40,5 +40,6 @@ My main focus areas are appsec, pentesting and reversing.
 <li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13363-CVE--2019--13363-blue"/></p> </li>
 <li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13364-CVE--2019--13364-blue"/></p> </li>
 <li> <p align="left"><img src="https://img.shields.io/badge/CVE--2019--13363-CVE--2019--13363-blue"/></p> </li>
+<li> <p align="left"><img src="https://img.shields.io/badge/CVE--2021--30140-CVE--2021--30140-blue"/></p> </li>
 </ul>
 
